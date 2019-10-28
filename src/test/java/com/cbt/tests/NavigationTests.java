@@ -12,6 +12,7 @@ public class NavigationTests {
         Firefox();
         Safari();
     }
+
     public static void Chrome () {
         WebDriver driver = BrowserFactory.getdriver("chrome");
         driver.get("https://www.google.com");

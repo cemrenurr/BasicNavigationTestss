@@ -25,10 +25,6 @@ public class BrowserFactory {
                 WebDriverManager.edgedriver().setup();
                 driver=null;
                 break;
-            case "internet explorer" :
-                WebDriverManager.edgedriver().setup();
-                driver=null;
-                break;
             case "safari":
                 WebDriverManager.edgedriver().setup();
                 driver=new SafariDriver();

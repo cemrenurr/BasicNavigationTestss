@@ -9,6 +9,7 @@ public class StringUtility {
         } else {
             System.out.println("FAIL");
             System.out.println("Expected: "+expected+", actual: "+actual);
+
         }
     }
 
