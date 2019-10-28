@@ -2,7 +2,7 @@ package com.cbt.tests;
 
 import com.cbt.utilities.BrowserFactory;
 import org.openqa.selenium.WebDriver;
-import org.openqa.selenium.safari.SafariDriverInfo;
+//import org.openqa.selenium.safari.SafariDriverInfo;
 
 import static com.cbt.utilities.StringUtility.verifyEquals;
 
